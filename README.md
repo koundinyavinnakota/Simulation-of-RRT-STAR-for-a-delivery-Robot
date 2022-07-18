@@ -1,4 +1,4 @@
-# rrt-star-for-delivery-robot
+# Simulation-of-RRT-STAR-for-a-delivery-Robot
 
 In this project, RRT* star algorithm has been implemeted for path planning for a mobile delivery robot to deliver to multiple locations in a efficient way.
 
@@ -13,7 +13,7 @@ In this project, RRT* star algorithm has been implemeted for path planning for a
 1.Navigate to the source folder of your catkin workspace and clone the package
   
     cd catkin_ws/src
-    git clone https://github.com/Madhunc5229/rrt-star-for-delivery-robot
+    git clone https://github.com/koundinyavinnakota/Simulation-of-RRT-STAR-for-a-delivery-Robot
 2.Build the package and source it
 
     cd ..
@@ -32,10 +32,5 @@ In this project, RRT* star algorithm has been implemeted for path planning for a
   
     rosrun rrt rrt_star_algorithm_turtlebot
 
-## Output:
 
-https://user-images.githubusercontent.com/61328094/172286914-8b1295f8-ba2a-403f-99d8-e5e7fa4b841e.mp4
-
-## For full video:
-https://www.youtube.com/watch?v=37qtxaqpePQ
 
